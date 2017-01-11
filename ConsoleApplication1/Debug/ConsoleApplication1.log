@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\source.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\source.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\source.cpp(297): warning C4018: '>': signed/unsigned mismatch
+d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\source.cpp(307): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\source.cpp(308): warning C4244: 'initializing': conversion from 'float' to 'clock_t', possible loss of data
+d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\source.cpp(293): warning C4715: 'gameover': not all control paths return a value
+d:\19pv52\winapi\lesson 6\consoleapplication1\consoleapplication1\source.cpp(174): warning C4715: 'start_menu': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\19PV52\WinAPI\lesson 6\ConsoleApplication1\Debug\ConsoleApplication1.exe
